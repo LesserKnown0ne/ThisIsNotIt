@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AttemptAtApplication</string>
+
+    <string name="Cherry">Cherry</string>
+    <string name="Passion">Passionfruit</string>
+    <string name="Water">Watermelon</string>
+
+    <string name="Large">Large 1L</string>
+    <string name="Medium">Medium 750ml</string>
+    <string name="Small">Small 500ml</string>
+
+    <string name="Sweetened">Sweetened?</string>
+    <string name="Sparkling">Sparkling?</string>
+    <string name="AddToCart">Add To Cart</string>
+
+    <string name="image">background</string>
+</resources>
